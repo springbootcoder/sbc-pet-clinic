@@ -1,4 +1,4 @@
-package com.springbootcoder.sbcpetclinic;
+package com.springbootcoder.cbcpetclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

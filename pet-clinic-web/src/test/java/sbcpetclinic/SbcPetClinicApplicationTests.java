@@ -1,4 +1,4 @@
-package com.springbootcoder.sbcpetclinic;
+package sbcpetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
