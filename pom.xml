@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.springbootcoder</groupId>
     <artifactId>sbc-pet-clinic</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.3-SNAPSHOT</version>
     <name>sbc-pet-clinic</name>
     <description>SBC Pet Clinic Project</description>
 
