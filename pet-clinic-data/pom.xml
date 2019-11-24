@@ -63,5 +63,7 @@
     </build>
 
 
-<tag>0.0.2</tag>
+    <scm>
+        <tag>0.0.2</tag>
+    </scm>
 </project>
