@@ -3,7 +3,7 @@
     <parent>
         <artifactId>sbc-pet-clinic</artifactId>
         <groupId>com.springbootcoder</groupId>
-        <version>0.0.4</version>
+        <version>0.0.5</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -64,6 +64,6 @@
 
 
   <scm>
-    <tag>0.0.4</tag>
+    <tag>0.0.5</tag>
   </scm>
 </project>
